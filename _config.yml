@@ -16,7 +16,7 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'Tom-cat'
 NickName: 'Fxck'
-webtitle: 'fxck1024.github.io'
+webtitle: 'Hacker'
 bio: 'What fuck'
 about: true
 aboutyou: '生命不息，折腾不止'
@@ -66,7 +66,7 @@ friends:
 disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
-livere: true
+livere: false
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
 Gitment: true
